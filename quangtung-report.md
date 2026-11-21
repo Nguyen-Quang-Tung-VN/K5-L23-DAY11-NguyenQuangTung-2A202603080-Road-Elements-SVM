@@ -1,5 +1,5 @@
 # Báo cáo cá nhân — Ngày 11
-Họ tên: Nguyễn Quang Tùng               Mã học viên: QuangTung  
+Họ tên: Nguyễn Quang Tùng               Mã học viên: 2A202603080  
 Phiên bản CVAT (Help → About): v2.74.1  
 Guideline: Road v1.0    Lần nộp (`revision` trong manifest): 1  
 Thời điểm export (ngày giờ trên CVAT): 2026-11-20 15:14:16 UTC    Số lần nộp lại sau Rework: 0  

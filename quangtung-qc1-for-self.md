@@ -1,6 +1,6 @@
 # Phiếu QC 1 — Road v1.0 (Tự kiểm định độc lập / Self-Audit)
 
-Lô được kiểm (học viên): Nguyễn Quang Tùng (QuangTung)        Người kiểm (học viên): Nguyễn Quang Tùng (QuangTung)  
+Lô được kiểm (học viên): Nguyễn Quang Tùng (2A202603080)        Người kiểm (học viên): Nguyễn Quang Tùng (2A202603080)  
 Ngày: 2026-11-20                                            Phiên bản guideline: Road v1.0  
 File được kiểm (tên + `revision` trong manifest): quangtung-front.zip, quangtung-fisheye.zip (revision 1)  
 Số ảnh kiểm: 6 (A01, A04, A07, B01, B03, B06)               Số nhãn đã kiểm (shape + tag): 65  
